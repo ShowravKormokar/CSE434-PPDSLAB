@@ -1,4 +1,3 @@
-```md
 # 📝 NOTE06 — Java HTTP Server Using HttpHandler (Request–Response Model)
 
 This note explains a simple **HTTP Server implementation in Java** using the built-in `HttpServer` and `HttpHandler` classes.
@@ -75,8 +74,7 @@ Hello, showrav.
 
 ### 🌍 Browser Request Flow
 
-```
-
+```URL
 Browser → [http://localhost:8080/showrav](http://localhost:8080/showrav)
 
 ```
